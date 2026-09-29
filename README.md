@@ -1,3 +1,4 @@
+> **Confidentiality Notice:** The Cancer Curation Application was developed as part of my internship at Omega Healthcare. Due to company confidentiality and project privacy requirements, application screenshots, source code, internal documents, and other proprietary materials are not publicly shared in this repository. The documentation below provides a high-level overview of the project and my technical contributions.
 # Cancer Curation Application Using GenAI
 
 ## Overview
